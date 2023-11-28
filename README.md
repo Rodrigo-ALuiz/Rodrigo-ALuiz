@@ -17,8 +17,8 @@
  
 <div> 
   
-  <a href="https://instagram.com/realpr7me" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:irodrigoaugusto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rdgozz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrigordgzz@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Rodrigo-ALuiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Rodrigo-ALuiz/Rodrigo-ALuiz/blob/output/github-contribution-grid-snake.svg)
